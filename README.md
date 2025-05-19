@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @NibbleyMidge
+- 👋 Hi, I’m Lucas Madle
 - 👀 I’m interested in Computer
 - 🌱 I’m currently learning Comp Sci
 - 💞️ I’m looking to collaborate on Computer
-- 📫 How to reach me: Dont
+- 📫 How to reach me: lucas@madle.co.uk
 
 <!---
 NibbleyMidge/NibbleyMidge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
